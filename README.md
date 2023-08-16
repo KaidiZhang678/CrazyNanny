@@ -2,14 +2,6 @@
 ## Introduction
 This is a game named “Crazy Nanny”, a single-player house cleaning and management 3D simulation game. This is an exciting and engaging 3D game. Players will experience house-keeping challenges, including cleaning the house, feeding dogs, serving guests, taking care of babies, and cooking dishes, etc. In this game, players will embark on a solo journey and act as a nanny, improving their time management and multitasking skills, exploring diverse environments and handling different kinds of challenges. “Crazy Nanny” aims to provide a rewarding and engaging experience for players who prefer a single-player gaming experience.  
 
-## Author
-TeamBUFF
-- Ameer Al-Haddi
-- Bin He
-- Yinghai Yu
-- Yuankun Zeng
-- Kaidi Zhang 
-
 ## Game Instructions
 
 ### General Actions
