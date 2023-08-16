@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Female Sitting Controller
+  m_Controller: {fileID: 9100000, guid: f198b02e0e99f8d458e8beaa4c101d65, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6d53a488351422c4b9e379c87bd0c523, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: da1896c29e4a04feca5d5c1aab49bc3d,
+      type: 3}
